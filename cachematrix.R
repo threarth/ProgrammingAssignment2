@@ -1,6 +1,6 @@
-## makeCacheMatrix and cacheSolve respectively return a special matrix object which
-## contains the 'methods' to set/retrieve its inverse and its data and to compute and
-## cache its inverse
+## makeCacheMatrix and cacheSolve respectively:
+## -return a special matrix object which contains the 'methods' to set/retrieve its data and its inverse
+## -compute and cache its inverse
 
 
 ## Constructor function which returns a 'matrix' object (a list of the four implemented methods of this object)
