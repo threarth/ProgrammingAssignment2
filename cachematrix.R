@@ -3,7 +3,7 @@
 ## cache its inverse
 
 
-## Constructor function which returns a 'matrix' object (a list of the four implemented methods of this object).
+## Constructor function which returns a 'matrix' object (a list of the four implemented methods of this object)
 ## Methods: get, set, getinverse, setinverse
 ## Members: x (data) and i (inverse)
 makeCacheMatrix <- function(x = matrix()) {
